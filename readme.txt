@@ -18,6 +18,8 @@ Git
 \f0\b0 \cf2  free software. 
 \f2 \
 \
-\'ce\'d2\'d3\'d6\'c0\'b4\'d0\'de\'b8\'c4\'ce\'c4\'bc\'fe\'c1\'cb
+\'ce\'d2\'d3\'d6\'c0\'b4\'d0\'de\'b8\'c4\'ce\'c4\'bc\'fe\'c1\'cb\
+\
+\'b2\'e2\'ca\'d4\'d4\'dd\'b4\'e6\'c7\'f8\'ba\'cd\'b9\'a4\'d7\'f7\'c7\'f8
 \f0 \
 }
